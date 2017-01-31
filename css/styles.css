@@ -133,6 +133,14 @@ a:visited {
   height: 400px;
 }
 
+#john-smith-cover {
+  background-image: url("http://i.imgur.com/jMNI7I3.jpg")
+}
+
+#john-smith-card {
+ background-image: url("http://i.imgur.com/yAPD9D4.jpg");
+}
+
 #joe-burgess-card {
  background-image: url("https://learn-verified.s3.amazonaws.com/joe-burgess.jpeg");
 }

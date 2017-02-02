@@ -163,6 +163,14 @@ a:visited {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
 }
 
+#trevor-watson-cover {
+  background-image: url("http://lorempixel.com/1500/500/city/")
+}
+
+#trevor-watson-card {
+  background-image: url("https://avatars1.githubusercontent.com/u/12191850?v=3&u=415890832b0f7bc1baae788024b06fc2326b2f0b&s=400")
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;

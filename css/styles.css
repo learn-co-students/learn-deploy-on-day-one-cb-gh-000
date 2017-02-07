@@ -163,6 +163,14 @@ a:visited {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
 }
 
+#hiram-cruz-cover {
+    background-image: url("http://i.imgur.com/OtjC8cW.jpg");
+}
+
+#hiram-cruz-card {
+    background-image: url("http://i.imgur.com/NnMDafV.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;

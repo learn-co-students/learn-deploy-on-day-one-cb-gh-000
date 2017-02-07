@@ -163,6 +163,14 @@ a:visited {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
 }
 
+#james-vanderklip-cover {
+ background-image: url("http://i.imgur.com/4dngltv.jpg");
+}
+
+#james-vanderklip-card {
+ background-image: url("http://i.imgur.com/Mq0aelg.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;

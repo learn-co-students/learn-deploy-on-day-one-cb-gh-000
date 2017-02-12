@@ -117,7 +117,7 @@ a:visited {
 }
 
 .student-card:before {
-  content: "";
+  content: "http://i.imgur.com/DyLHuVN.jpg?1";
   position: absolute;
   top: 0;
   bottom: 0;
@@ -155,12 +155,12 @@ a:visited {
  background-image: url("https://learn-verified.s3.amazonaws.com/mathieu-balez.jpeg");
 }
 
-#diane-vu-cover {
- background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu-cover.jpg");
+#mel-sorrells-cover {
+ background-image: url("http://i.imgur.com/DyLHuVN.jpg?1");
 }
 
-#diane-vu-card {
- background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
+#mel-sorrells-card {
+ background-image: url("http://i.imgur.com/zCcmz0K.jpg?1");
 }
 
 .view-profile-div {

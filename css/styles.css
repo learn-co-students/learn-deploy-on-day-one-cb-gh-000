@@ -133,6 +133,14 @@ a:visited {
   height: 400px;
 }
 
+#patrick-li-card {
+  background-image: url(http://i.imgur.com/33FI9Mp.jpg);
+}
+
+#patrick-li-cover {
+    background-image: url(http://i.imgur.com/ABT4h4a.jpg);
+}
+
 #joe-burgess-card {
  background-image: url("https://learn-verified.s3.amazonaws.com/joe-burgess.jpeg");
 }

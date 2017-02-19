@@ -104,6 +104,10 @@ a:visited {
   margin: 0 auto;
 }
 
+.fancy-text {
+  font-family: cursive;
+}
+
 .student-card {
   position: relative;
  background-image: url("https://learn-verified.s3.amazonaws.com/profile-photo-placeholder.png");
@@ -161,6 +165,14 @@ a:visited {
 
 #diane-vu-card {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
+}
+
+#daniel-bessonov-cover {
+  background-image: url("http://i.imgur.com/wiBqjIF.jpg");
+}
+
+#daniel-bessonov-card {
+  background-image: url("http://i.imgur.com/ZVMrZEI.jpg");
 }
 
 .view-profile-div {

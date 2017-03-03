@@ -133,6 +133,15 @@ a:visited {
   height: 400px;
 }
 
+#mike-butts-cover {
+ background-image: url("https://media.licdn.com/media/p/4/005/0af/31f/044b79b.jpg");
+}
+
+#mike-butts-card {
+ background-image: url("http://i.imgur.com/Cfa1IuQ.jpg");
+}
+
+
 #joe-burgess-card {
  background-image: url("https://learn-verified.s3.amazonaws.com/joe-burgess.jpeg");
 }

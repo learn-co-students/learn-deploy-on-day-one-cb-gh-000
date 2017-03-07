@@ -163,6 +163,14 @@ a:visited {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
 }
 
+#jenny-helyanwe-card{
+  background-image: url("http://i.imgur.com/Sijz7SC.jpg");
+}
+
+#jenny-helyanwe-cover{
+  background-image: url("http://i.imgur.com/L05Tbpv.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;

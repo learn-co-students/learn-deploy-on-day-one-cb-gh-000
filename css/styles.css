@@ -163,6 +163,14 @@ a:visited {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
 }
 
+#adrian-torres-cover{
+  background-image: url("http://imgur.com/UuvWtsH.png");
+}
+
+#adrian-torres-card{
+  background-image: url("http://imgur.com/CUmIwkb.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;

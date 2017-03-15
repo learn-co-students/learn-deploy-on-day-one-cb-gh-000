@@ -163,6 +163,14 @@ a:visited {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
 }
 
+  #victor-turcios-cover {
+    background-image: url("http://i.imgur.com/NCk7vPU.jpg");
+  }
+ 
+  #victor-turcios-card {
+    background-image: url("http://i.imgur.com/YPnOW1S.jpg");
+  }
+
 .view-profile-div {
   position: absolute;
   bottom: 0;

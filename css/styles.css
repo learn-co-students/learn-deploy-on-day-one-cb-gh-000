@@ -163,6 +163,14 @@ a:visited {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
 }
 
+#rodrigo-crespillo-card {
+  background-image: url("http://i.imgur.com/GGaljAj.jpg");
+}
+
+#rodrigo-crespillo-cover {
+  background-image: url("http://i.imgur.com/ozqPXpJ.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;

@@ -133,6 +133,9 @@ a:visited {
   height: 400px;
 }
 
+#ravi-tmg-card {
+ background-image: url("https://s9.postimg.org/sg2ix9wyn/hello.jpg");
+}
 #joe-burgess-card {
  background-image: url("https://learn-verified.s3.amazonaws.com/joe-burgess.jpeg");
 }

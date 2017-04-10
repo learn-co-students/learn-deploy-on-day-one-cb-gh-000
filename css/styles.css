@@ -133,6 +133,14 @@ a:visited {
   height: 400px;
 }
 
+#oliver-scott-cover {
+  background-image: url("http://i.imgur.com/jlb9Lck.jpg");
+}
+
+#oliver-scott-card {
+  background-image: url("http://i.imgur.com/ayTPf9h.jpg")
+}
+
 #joe-burgess-card {
  background-image: url("https://learn-verified.s3.amazonaws.com/joe-burgess.jpeg");
 }

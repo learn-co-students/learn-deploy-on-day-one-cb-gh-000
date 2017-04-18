@@ -163,6 +163,22 @@ a:visited {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
 }
 
+#sivaraam-cover {
+ background-image: url(https://upload.wikimedia.org/wikipedia/commons/e/ee/Udhagamandalam_%285712229637%29.jpg);
+}
+
+#sivaraam-card {
+ background-image: url(https://upload.wikimedia.org/wikipedia/commons/f/f5/Lotus_flower_%28978659%29.jpg);
+}
+
+#sivaraam-card:hover {
+ transform: scale(1.1);
+}
+
+.sivaraam-second-quote {
+    padding: 1em;
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;

@@ -180,6 +180,10 @@ a:visited {
     padding: 1em;
 }
 
+.student-card:hover .view-sivaraam-profile {
+  background-color: #ca0081;
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;

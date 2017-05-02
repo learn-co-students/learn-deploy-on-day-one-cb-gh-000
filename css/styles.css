@@ -210,6 +210,14 @@ a:visited {
 
 /* PROFILE.HTML STYLES
 ======================== */
+#kevin-santacruz-cover {
+  background-image: url("http://i.imgur.com/Cpv3ZWkg.jpg");
+}
+
+#kevin-santacruz-card {
+  background-image: url("http://i.imgur.com/2CmyWs1.jpg");
+}
+
 .profile .header {
   margin: 0;
   box-shadow: none;

@@ -163,6 +163,14 @@ a:visited {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
 }
 
+#anderson-manosalva-cover {
+  background-image: url("http://imgur.com/a/4Y3pW");
+}
+
+#anderson-manosalva-card {
+  background-image: url("http://imgur.com/a/4Y3pW ");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;

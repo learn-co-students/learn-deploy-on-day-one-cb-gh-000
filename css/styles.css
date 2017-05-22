@@ -133,6 +133,13 @@ a:visited {
   height: 400px;
 }
 
+#edmundo-elizondo-card {
+ background-image: url("http://i.imgur.com/7H5ixyM.jpg");
+}
+#edmundo-elizondo-cover {
+ background-image: url("http://i.imgur.com/IFv3fql.jpg");
+}
+
 #joe-burgess-card {
  background-image: url("https://learn-verified.s3.amazonaws.com/joe-burgess.jpeg");
 }

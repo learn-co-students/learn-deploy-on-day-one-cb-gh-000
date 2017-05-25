@@ -163,6 +163,14 @@ a:visited {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
 }
 
+#sam-ebertz-cover {
+  background-image: url("https://pbs.twimg.com/profile_banners/215017697/1372880940/1500x500");
+}
+
+#sam-ebertz-card {
+  background-image: url("http://i.imgur.com/INqorsS.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;

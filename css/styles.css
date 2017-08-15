@@ -163,6 +163,14 @@ a:visited {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
 }
 
+#daniel-constantine-cover {
+  background-image: url("http://www.twitrcovers.com/wp-content/uploads/2014/08/Fish-sea-l.jpg");
+}
+
+#daniel-constantine-card{
+  background-image: url("http://i.imgur.com/zHpyjNE.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;

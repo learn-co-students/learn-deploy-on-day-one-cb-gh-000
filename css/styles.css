@@ -171,6 +171,10 @@ background-image: url("https://imgur.com/HIJmq6R.jpg");
   background-image: url("https://imgur.com/dLUuK6S.jpg");
 }
 
+div.student-card#joanner-pena-card{
+  background-position: initial;
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;

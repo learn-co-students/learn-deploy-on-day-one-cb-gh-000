@@ -464,3 +464,11 @@ a:visited {
 .clearfix:after {
     clear: both;
 }
+
+#mars-wong-card {
+  background-image: url("https://avatars.githubusercontent.com/u/10388933");
+}
+
+#mars-wong-cover {
+  background-image: url("https://learn-verified.s3.amazonaws.com/mars-wong-cover.png");
+}

@@ -134,33 +134,11 @@ a:visited {
 }
 
 #joe-burgess-card {
- background-image: url("https://learn-verified.s3.amazonaws.com/joe-burgess.jpeg");
+ background-image: url("https://imgur.com/0nzrje1");
 }
 
 #joe-burgess-cover {
- background-image: url("https://learn-verified.s3.amazonaws.com/joe-burgess-cover.png");
-}
-
-#avi-flombaum-card {
-}
-
-#mat-balez-card {
-}
-
-#mathieu-balez-cover {
- background-image: url("https://learn-verified.s3.amazonaws.com/mathieu-balez-cover.jpeg");
-}
-
-#mathieu-balez-card {
- background-image: url("https://learn-verified.s3.amazonaws.com/mathieu-balez.jpeg");
-}
-
-#diane-vu-cover {
- background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu-cover.jpg");
-}
-
-#diane-vu-card {
- background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
+ background-image: url("https://imgur.com/4YVUPTk");
 }
 
 .view-profile-div {

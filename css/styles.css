@@ -451,6 +451,14 @@ a:visited {
 
 }
 
+#harsh-vardhan-cover {
+    background-color: rgba(255, 0, 0, 0.5);
+  }
+
+  #harsh-vardhan-card {
+    background-image: url("https://i.imgur.com/qkuXq9Y.png");
+  }
+
 
 /* CLEARFIX HACK
 ======================== */

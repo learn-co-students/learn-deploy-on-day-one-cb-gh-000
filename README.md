@@ -21,7 +21,7 @@ You'll need the following information about yourself:
 * Education
 
 ## Structure
-
+ 
 The structure of this project looks something like this:
 
 ```text

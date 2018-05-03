@@ -464,3 +464,12 @@ a:visited {
 .clearfix:after {
     clear: both;
 }
+
+
+#robin-cussol-card {
+  background-image: url("http://imgur.com/dWWVOk7.jpg");
+}
+
+#robin-cussol-cover {
+  background-image: url("http://imgur.com/BtdY94u.jpg");
+}

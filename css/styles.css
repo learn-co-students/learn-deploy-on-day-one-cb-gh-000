@@ -163,6 +163,14 @@ a:visited {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
 }
 
+#kate-baranova-cover {
+  background-image: url("http://www.nordicjobsworldwide.com/wp-content/uploads/2018/04/Riga-Altstadt-1-1030x628.jpg");
+}
+
+#kate-baranova-card{
+  background-image: url("https://pbs.twimg.com/profile_images/3273725161/f45bf829a578765fb04f887afcd887ef_400x400.jpeg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;

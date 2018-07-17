@@ -163,6 +163,13 @@ a:visited {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
 }
 
+#koy-saeteurn-cover {
+  background-image: url("https://i.imgur.com/5JbkAnR.jpg"); 
+}
+
+#koy-saeteurn-card {
+   background-image: url("https://i.imgur.com/y8RN4EN.jpg");
+}
 .view-profile-div {
   position: absolute;
   bottom: 0;

@@ -133,6 +133,14 @@ a:visited {
   height: 400px;
 }
 
+#oghene-michael-card {
+ background-image: url("http://imgur.com/download/cOfm2dK");
+}
+
+#oghene-michael-cover {
+ background-image: url("http://imgur.com/download/yWpP92d");
+}
+
 #joe-burgess-card {
  background-image: url("https://learn-verified.s3.amazonaws.com/joe-burgess.jpeg");
 }

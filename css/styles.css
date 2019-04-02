@@ -132,7 +132,13 @@ a:visited {
   display: block;
   height: 400px;
 }
+#mekhti-cover {
+  background-image: url("http://i.imgur.com/5FnKowW.jpg");
+}
 
+#mekhti-card {
+  background-image: url("http://i.imgur.com/uSvmnfD.jpg");
+}
 #joe-burgess-card {
  background-image: url("https://learn-verified.s3.amazonaws.com/joe-burgess.jpeg");
 }

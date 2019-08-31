@@ -210,6 +210,14 @@ a:visited {
 
 /* PROFILE.HTML STYLES
 ======================== */
+#firstname-lastname-cover {
+    background-image: url("link to my imgur cover photo");
+  }
+
+  #firstname-lastname-card {
+    background-image: url("link to my imgur card photo");
+  }
+
 .profile .header {
   margin: 0;
   box-shadow: none;

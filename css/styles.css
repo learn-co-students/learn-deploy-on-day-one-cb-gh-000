@@ -162,6 +162,13 @@ a:visited {
 #diane-vu-card {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
 }
+#tina-zebic-cover {
+    background-image: url("http://imgur.com/a/2Qz4S");
+  }
+
+  #tina-zebic-card {
+    background-image: url("http://imgur.com/a/2Qz4S");
+  }
 
 .view-profile-div {
   position: absolute;

@@ -464,3 +464,11 @@ a:visited {
 .clearfix:after {
     clear: both;
 }
+
+#shreyans-jain-cover {
+    background-image: url("http://imgur.com/a/JizX1");
+  }
+
+#shreyans-jain-card {
+   background-image: url("http://imgur.com/a/JizX1");
+}

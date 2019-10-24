@@ -132,7 +132,9 @@ a:visited {
   display: block;
   height: 400px;
 }
-
+#natiq-aghayev-card{
+  background-image: url("http://i.imgur.com/HNHDfiS.jpg");
+}
 #joe-burgess-card {
  background-image: url("https://learn-verified.s3.amazonaws.com/joe-burgess.jpeg");
 }

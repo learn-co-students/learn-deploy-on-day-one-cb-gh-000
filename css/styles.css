@@ -106,7 +106,7 @@ a:visited {
 
 .student-card {
   position: relative;
- background-image: url("https://learn-verified.s3.amazonaws.com/profile-photo-placeholder.png");
+  background-image: url("https://learn-verified.s3.amazonaws.com/profile-photo-placeholder.png");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -161,6 +161,18 @@ a:visited {
 
 #diane-vu-card {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
+}
+
+#joanner-pena-cover{
+background-image: url("https://imgur.com/HIJmq6R.jpg");
+}
+
+#joanner-pena-card{
+  background-image: url("https://imgur.com/dLUuK6S.jpg");
+}
+
+div.student-card#joanner-pena-card{
+  background-position: initial;
 }
 
 .view-profile-div {

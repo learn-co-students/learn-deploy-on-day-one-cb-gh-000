@@ -451,6 +451,13 @@ a:visited {
 
 }
 
+  #firstname-lastname-cover {
+    background-image: url("https://imgur.com/a/qkCrMj8");
+  }
+ 
+  #firstname-lastname-card {
+    background-image: url("https://imgur.com/a/qkCrMj8");
+  }
 
 /* CLEARFIX HACK
 ======================== */

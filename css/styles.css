@@ -163,6 +163,13 @@ a:visited {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
 }
 
+#rohit-kale-cover {
+ background-image: url("//imgur.com/JdXnX54.jpg");
+}
+
+#rohit-kale-card {
+ background-image: url("//imgur.com/Od49gFu.jpg");
+
 .view-profile-div {
   position: absolute;
   bottom: 0;

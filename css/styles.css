@@ -163,6 +163,14 @@ a:visited {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
 }
 
+#abhishek-sisodiya-cover {
+  background-image: url("https://i.imgur.com/r0QGN4E.jpg");
+}
+
+#abhishek-sisodiya-card {
+  background-image: url("https://i.imgur.com/4lOhZRu.png");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
